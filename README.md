@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Anna Alekseeva
-<!--
-**AnnaShengel/AnnaShengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👀I’m interested in data analysis
 - 🏦I’m currently working on Bank
