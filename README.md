@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Anna Alekseeva
-## About me:
+## Hi there 👋 I'm Anna Alekseeva
+### About me:
 - 👀I’m interested in data analysis
 - 🏦I’m currently working on Bank as a Data analyst
 - 👩‍🎓My basic education: Bachelor of Engineering - Siberian Federal University
