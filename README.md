@@ -4,8 +4,20 @@
 - 🏦I’m currently working on Bank as a Data analyst
 - 👩‍🎓My basic education: Bachelor of Engineering - Siberian Federal University
 - 📔Completed courses: Data Analyst - Yandex.Practicum
-- 📩How to contact me: just text me to telegram @Annashengel
 
+---
+📩How to contact me:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anna-alekseeva-b7169a237?trk=contact-info">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/annashengel?igshid=MzMyNGUyNmU2YQ==">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram=white" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/AnnaShengel">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
+</div>
 ---
 
 ### :hammer_and_pick: Languages and Tools:
